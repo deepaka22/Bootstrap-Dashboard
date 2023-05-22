@@ -1,0 +1,26 @@
+
+#padding-for{
+    font-weight:normal;
+    }
+    
+    @media screen and (min-width:768px){
+    
+        #Dashboard-elements{
+            display: flex;
+            flex-direction:row;
+            flex-wrap: wrap;
+            justify-content:space-evenly;
+            gap: 5px;
+        }
+    
+    }
+    
+    
+    @media screen and (max-width:768px){
+        
+        #Dashboard-spacing{
+            margin-left: 15rem ;
+            background-color: aqua;
+        }
+    
+    }

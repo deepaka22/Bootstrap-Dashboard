@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-
+import Mainfile from './Mainfile/Mainfile';
 
 function App() {
 
@@ -9,8 +9,9 @@ function App() {
 
   return (
     <div className="App">
-       
-  welcome 
+
+    <Mainfile/>
+    
     </div>
   );
 }
