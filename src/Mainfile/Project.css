@@ -1,0 +1,36 @@
+
+
+#prog1{
+    width: 20%;
+}
+
+#prog2{
+    width: 40%;
+}
+
+#prog3{
+    width: 60%;
+}
+
+#prog4{
+    width: 80%;
+}
+
+#prog5{
+    width: 100%;
+}
+
+#float-right{
+    float: right !important;
+}
+
+#row-manager{
+    margin-top: 0rem;
+    overflow-x: hidden;
+}
+
+@media screen and (min-width:768px){
+    #row-manager{
+        margin-top: 2rem;
+    }
+    }

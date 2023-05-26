@@ -11,9 +11,13 @@ nav {
     opacity: 0.5;
 }
 
-
+nav{
+    overflow-x:hidden;
+}
 #nav-bg{
     background-color: #FFFFFF;
+    margin-left: 0.04rem;
+
 }
 
 #searchIcon{
@@ -53,7 +57,7 @@ nav {
 
     #nav-bg{
         background-color: #FFFFFF;
-        margin-left: 0.02rem;
+        margin-left: 0.04rem;
     }
 
 

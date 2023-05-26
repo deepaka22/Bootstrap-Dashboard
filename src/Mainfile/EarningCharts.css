@@ -1,0 +1,9 @@
+#pie-chart{
+    margin:0;
+}
+@media screen and (max-width: 768px){
+#pie-chart-spacing{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+}

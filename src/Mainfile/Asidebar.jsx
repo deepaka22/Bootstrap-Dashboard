@@ -1,7 +1,10 @@
 
 import Navbar from './Navbar';
 import Dashingboard from './Dashingboard';
-// import Charts from './Charts';
+import EarningCharts from './EarningCharts';
+import LineChart from './LineChart';
+import Projects from './Projects';
+import Footer from './Footer';
 
 import './Asidebar.css';
 
@@ -39,8 +42,9 @@ import './Asidebar.css';
 
             <Navbar/>
             <Dashingboard/>
-        
-
+            <EarningCharts/>
+            <Projects/>
+            <Footer/>
         </div>
 
 
